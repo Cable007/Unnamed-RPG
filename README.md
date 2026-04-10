@@ -1,7 +1,7 @@
 # Unnamed-RPG
 - fun game: tbd later what content is
 
---AI GENERATED TO KNOW HOW TO WRITE A .MD
+**- AI GENERATED TO KNOW HOW TO WRITE A .MD**
 
 # 🛸 AREA‑51_ECHO  
 ### A 2D RPG About an Alien Lost in the Ruins of Area 51
